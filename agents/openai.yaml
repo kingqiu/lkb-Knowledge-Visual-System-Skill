@@ -1,0 +1,4 @@
+interface:
+  display_name: "两克伴知识档案"
+  short_description: "将复杂主题转化为具备长期品牌识别度的小红书知识内容资产包"
+  default_prompt: "Use $lkb-knowledge-visual-system-skill to turn this topic into a 两克伴 knowledge-archive Xiaohongshu content package."

@@ -1,0 +1,5 @@
+.DS_Store
+
+# Keep local and generated runtime residue out of the reusable Skill package.
+__pycache__/
+*.py[cod]
